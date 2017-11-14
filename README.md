@@ -2,6 +2,7 @@
 
 > a clean and simple notification component for vue.js. Deeply inspired by Notie.js.
 > [Demo](http://lab.myriptide.com/vue-notie/)
+
 > 转自---https://github.com/Yuyz0112/vue-notie
 
 ![preview](/yummy-notie-m.gif?raw=true "Demo")
